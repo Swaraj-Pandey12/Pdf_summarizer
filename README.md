@@ -166,9 +166,9 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Sujal Singh Rajput**
+**Swaraj Pandey**
 
-- GitHub: [Sujal85526](https://github.com/Sujal85526)
+- GitHub: 
 
 ## 📞 Support
 
