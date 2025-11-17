@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+pdf_env/
+env/
+*.so
+*.dylib
+
+# Environment
+.env
+
+# OS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# IDEs
+.vscode/
+.idea/
