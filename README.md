@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📸 Summary Snap
 
 An AI-powered application that instantly captures the essence of PDF documents through intelligent summarization and enables interactive Q&A conversations using Google Gemini and LangChain.
@@ -185,3 +186,7 @@ Built with ❤️ using LangChain and Google Gemini
 
 
 
+=======
+# Pdf_summarizer
+AI PDF Summarizer: A lightweight and efficient AI-based application that extracts text from PDF documents and generates concise summaries using LLMs. Built with Python, pdfplumber, Flask, and transformer-based models to help users read and understand long documents faster.
+>>>>>>> 648c536e2eb47a819e321d474982e638d78cd567
